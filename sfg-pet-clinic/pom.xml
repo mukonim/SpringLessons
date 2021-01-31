@@ -41,7 +41,10 @@
 			</plugin>
 		</plugins>
 	</build>
-
+	
+	<scm>
+		<developerConnection>scm:git:https://github.com/mukonim/SpringLessons.git</developerConnection>
+	</scm>
 	<packaging>pom</packaging>
 	<modules>
 		<module>pet-clinic-data</module>
